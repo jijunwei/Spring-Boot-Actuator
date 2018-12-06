@@ -292,5 +292,5 @@ http://localhost:88/monitor/dump
 http://localhost/actuator/shutdown
 localhost 拒绝了我们的连接请求。
 
-http://localhost:88//monitor/loggers
+http://localhost:88/monitor/loggers
 
